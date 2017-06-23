@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav1_cloth"
+        android:title="衣著">
+        <menu>
+            <item
+                android:id="@+id/nav_T"
+                android:icon="@drawable/ic_menu_share"
+                android:title="T恤" />
+            <item
+                android:id="@+id/nav_trou"
+                android:icon="@drawable/ic_menu_send"
+                android:title="褲子" />
+            <item
+                android:id="@+id/nav_dress"
+                android:icon="@drawable/ic_menu_send"
+                android:title="裙子" />
+            <item
+                android:id="@+id/nav_coat"
+                android:icon="@drawable/ic_menu_send"
+                android:title="外套" />
+            <item
+                android:id="@+id/nav_shirt"
+                android:icon="@drawable/ic_menu_send"
+                android:title="襯衫" />
+            <item
+                android:id="@+id/nav_sweater"
+                android:icon="@drawable/ic_menu_send"
+                android:title="毛衣" />
+            <item
+                android:id="@+id/nav_ocloth"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_health"
+        android:title="美妝保健">
+        <menu>
+            <item
+                android:id="@+id/nav_face"
+                android:icon="@drawable/ic_menu_share"
+                android:title="臉部保養" />
+            <item
+                android:id="@+id/nav_body"
+                android:icon="@drawable/ic_menu_send"
+                android:title="身體保養" />
+            <item
+                android:id="@+id/nav_base"
+                android:icon="@drawable/ic_menu_send"
+                android:title="底妝" />
+            <item
+                android:id="@+id/nav_eye"
+                android:icon="@drawable/ic_menu_send"
+                android:title="眼部彩妝" />
+            <item
+                android:id="@+id/nav_lips"
+                android:icon="@drawable/ic_menu_send"
+                android:title="唇部彩妝" />
+            <item
+                android:id="@+id/nav_fa"
+                android:icon="@drawable/ic_menu_send"
+                android:title="頰彩" />
+            <item
+                android:id="@+id/nav_nails"
+                android:icon="@drawable/ic_menu_send"
+                android:title="美甲" />
+            <item
+                android:id="@+id/nav_hair"
+                android:icon="@drawable/ic_menu_send"
+                android:title="美髮護髮" />
+            <item
+                android:id="@+id/nav_ohe"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_food"
+        android:title="食品">
+        <menu>
+            <item
+                android:id="@+id/nav_food"
+                android:icon="@drawable/ic_menu_share"
+                android:title="吃的" />
+            <item
+                android:id="@+id/nav_drink"
+                android:icon="@drawable/ic_menu_send"
+                android:title="喝的" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_3C"
+        android:title="3C相關">
+        <menu>
+            <item
+                android:id="@+id/nav_cellp"
+                android:icon="@drawable/ic_menu_share"
+                android:title="手機/相關" />
+            <item
+                android:id="@+id/nav_comp"
+                android:icon="@drawable/ic_menu_send"
+                android:title="電腦/相關" />
+            <item
+                android:id="@+id/nav_came"
+                android:icon="@drawable/ic_menu_send"
+                android:title="相機/相關" />
+            <item
+                android:id="@+id/nav_game"
+                android:icon="@drawable/ic_menu_send"
+                android:title="電玩/相關" />
+            <item
+                android:id="@+id/nav_oc"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_home"
+        android:title="居家生活">
+        <menu>
+            <item
+                android:id="@+id/nav_bedroom"
+                android:icon="@drawable/ic_menu_share"
+                android:title="臥室" />
+            <item
+                android:id="@+id/nav_kitchen"
+                android:icon="@drawable/ic_menu_send"
+                android:title="廚房" />
+            <item
+                android:id="@+id/nav_guest"
+                android:icon="@drawable/ic_menu_send"
+                android:title="客廳" />
+            <item
+                android:id="@+id/nav_restroom"
+                android:icon="@drawable/ic_menu_send"
+                android:title="廁所" />
+            <item
+                android:id="@+id/nav_oj"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_acc"
+        android:title="鞋包/配件">
+        <menu>
+            <item
+                android:id="@+id/nav_shoes"
+                android:icon="@drawable/ic_menu_share"
+                android:title="鞋" />
+            <item
+                android:id="@+id/nav_bag"
+                android:icon="@drawable/ic_menu_send"
+                android:title="包" />
+            <item
+                android:id="@+id/nav_glasses"
+                android:icon="@drawable/ic_menu_send"
+                android:title="眼鏡" />
+            <item
+                android:id="@+id/nav_jewly"
+                android:icon="@drawable/ic_menu_send"
+                android:title="飾品" />
+            <item
+                android:id="@+id/nav_hat"
+                android:icon="@drawable/ic_menu_send"
+                android:title="帽子" />
+            <item
+                android:id="@+id/nav_watch"
+                android:icon="@drawable/ic_menu_send"
+                android:title="手錶" />
+            <item
+                android:id="@+id/nav_socks"
+                android:icon="@drawable/ic_menu_send"
+                android:title="襪子" />
+            <item
+                android:id="@+id/nav_scurf"
+                android:icon="@drawable/ic_menu_send"
+                android:title="圍巾" />
+            <item
+                android:id="@+id/nav_oacce"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_pen"
+        android:title="文具/教材">
+        <menu>
+            <item
+                android:id="@+id/nav_pen"
+                android:icon="@drawable/ic_menu_share"
+                android:title="文具" />
+            <item
+                android:id="@+id/nav_textbook"
+                android:icon="@drawable/ic_menu_send"
+                android:title="課本" />
+            <item
+                android:id="@+id/nav_note"
+                android:icon="@drawable/ic_menu_send"
+                android:title="筆記" />
+            <item
+                android:id="@+id/nav_opens"
+                android:icon="@drawable/ic_menu_send"
+                android:title="其他" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav1_others"
+        android:title="其他雜貨">
+
+    </item>
+    <item
+        android:id="@+id/nav1_group"
+        android:title="團/代購">
+
+    </item>
+    <item
+        android:id="@+id/nav1_rent"
+        android:title="租房">
+
+    </item>
+    <item
+        android:id="@+id/nav1_instance"
+        android:title="限時商品">
+
+    </item>
+</menu>
